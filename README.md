@@ -1,1 +1,2 @@
-<h1>Hi! I am <span style="color:"red";">Md Nafis Iqbal</span></h1>
+<h1>Hi! I am Md Nafis Iqbal</h1>
+<h3>MERN Stack Developer</h3>
