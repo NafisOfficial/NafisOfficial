@@ -3,7 +3,7 @@
 
 ## Hi everyone 👋,
 ## My name is Md. Nafis Iqbal
-## I am a MERN stack developer
+## A MERN stack developer
 
 __About me:__ I am a student of B.Sc. in Computer Science and Engineering(CSE). I am passionate about developing user-friendly, efficient, and secure websites. I am an expert at MERN(MongoDB, Express js, React js, Node js) stack development. I can build user-friendly and lucrative websites according to client descriptions. I am seeking part-time/full-time and remote opportunities. Let's connect!
 
